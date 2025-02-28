@@ -21,7 +21,7 @@ electrical challenges. An all-round team player but equally capable of working o
 
 - 🌱 I’m currently learning with: Zero To Mastery Web Developer and Brad Traversy Javascript courses.
 
-- 📫 How to reach me ...Discord-SKriel, linkedIn-Shaun Kriel, email-shaunkriel@sky.com
+- 📫 How to reach me ...Discord-SKriel, linkedIn-Shaun Kriel, email shaunkriel@sky.com
 
 
 <!---
